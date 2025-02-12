@@ -4,7 +4,13 @@
   "description": "Taylor memes are collectibles supporting TAYLOR's artwork, not for investment.",
   "image": "https://raw.githubusercontent.com/socialhego/tylorToken/main/taylor.png",
   "seller_fee_basis_points": 0,
-  "creators": [],
+  "creators": [
+    {
+      "address": "EzWKdGkA7VS9cNMUNppXPtivaEQzr2BE2bkVLM6bv21U",
+      "verified": true,
+      "share": 100
+    }
+  ],
   "attributes": [],
   "collection": {},
   "properties": {
